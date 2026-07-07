@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br>I'm Jami, a software developer from Finland with a passion for building modern web applications and creating intuitive user experiences.<br><br>My primary focus is frontend development with React and TypeScript, but I also enjoy exploring backend technologies, UI/UX design, and software architecture.<br><br>I'm currently working on personal projects while completing my ICT Engineering degree and am always looking for opportunities to learn and build something meaningful.
+## Hi there 👋<br><br>I'm Jami, a software developer from Finland with a passion for building modern web applications and creating intuitive user experiences.<br><br>My primary focus is frontend development with React and TypeScript, but I also enjoy exploring new technologies, UI/UX design, and software architecture.<br><br>I'm currently working on personal projects while completing my ICT Engineering degree and am always looking for opportunities to learn and build something meaningful.
 
 
 # 💻 Tech Stack:
